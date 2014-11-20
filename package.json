@@ -1,8 +1,8 @@
 {
   "name": "daimio",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "repository": "https://github.com/atom/daimio",
+  "description": "Sugar, shortcuts, and handy helpers for Daimio.",
+  "repository": "https://github.com/jennie/atom-daimio",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
